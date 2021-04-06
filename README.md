@@ -2,6 +2,7 @@
 
 ### Require:
 - FiveM Server
+- Discord Server (Webhook)
 
 ### Screenshot:
 
